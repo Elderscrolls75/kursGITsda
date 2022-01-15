@@ -1,1 +1,1 @@
-Zmiana w pliku, która nadpisze poprzednią zmianę i dodatkowo zesra ci się na klatę hehehe.
+Zmiana w pliku, która nadpisze poprzednią zmianę.
